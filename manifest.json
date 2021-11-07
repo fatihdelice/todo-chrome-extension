@@ -1,0 +1,14 @@
+{
+    "name": "ToDo List", 
+    "description": "What is a ToDo List? The definition is a simple one. It’s a list of tasks you need to complete, or things that you want to do. ",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_title": "ToDo list",
+        "default_icon": "to-do-list.png",
+        "default_popup": "index.html" 
+    },
+    
+    "icons":{ "128": "to-do-list.png" }
+
+}
